@@ -8,3 +8,7 @@
 4. [选择结构程序设计](4select-structure-programming.md)
 5. [循环结构体程序设计](5cycle-structure-programming.md)
 
+6. [利用数组处理批量数据](6use-arrays-to-process-batch-data.md)
+
+7. [用函数实现模块化程序设计](7realize-modular-programming-with-functions.md)
+
