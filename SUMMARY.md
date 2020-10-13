@@ -1,6 +1,6 @@
 # Table of contents
 
-* [C-learning](README.md)
+* [index](README.md)
 * [contents](contents.md)
 * [1.programming](1programming.md)
 * [2.Algorithm](2algorithm.md)
