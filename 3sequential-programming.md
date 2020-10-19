@@ -1,4 +1,4 @@
-# 3.sequential-programming
+# 顺序程序设计
 
 ## 顺序程序设计
 

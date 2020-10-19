@@ -1,6 +1,4 @@
-# 1.programming
-
-## 程序
+# programming
 
 ## 1.什么是程序?什么是程序设计?
 

@@ -7,6 +7,6 @@
 * [3.sequential-programming](3sequential-programming.md)
 * [4.select-structure-programming](4select-structure-programming.md)
 * [5.cycle-structure-programming](5cycle-structure-programming.md)
-* [6use-arrays-to-process-batch-data](6use-arrays-to-process-batch-data.md)
-* [7realize-modular-programming-with-functions](7realize-modular-programming-with-functions.md)
+* [6.use-arrays-to-process-batch-data](6use-arrays-to-process-batch-data.md)
+* [7.realize-modular-programming-with-functions](7realize-modular-programming-with-functions.md)
 
