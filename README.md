@@ -1,6 +1,6 @@
 # 编者序
 
-## Editor's preface编者序
+## Editor's preface
 
 编者
 
