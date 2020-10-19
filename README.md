@@ -4,7 +4,7 @@
 
 编者
 
-* Kayleh
+* [Kayleh](https://github.com/kayleh)
 
 C语言学习整理
 
