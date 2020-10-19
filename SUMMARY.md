@@ -2,11 +2,11 @@
 
 * [编者序](README.md)
 * [目录contents](contents.md)
-* [programming](1programming.md)
+* [1.programming](1programming.md)
 * [2.Algorithm](2algorithm.md)
-* [cycle-structure-programming](5cycle-structure-programming.md)
-* [select-structure-programming](4select-structure-programming.md)
-* [顺序程序设计](3sequential-programming.md)
-* [7realize-modular-programming-with-functions](7realize-modular-programming-with-functions.md)
+* [3.sequential-programming](3sequential-programming.md)
+* [4.select-structure-programming](4select-structure-programming.md)
+* [5.cycle-structure-programming](5cycle-structure-programming.md)
 * [6use-arrays-to-process-batch-data](6use-arrays-to-process-batch-data.md)
+* [7realize-modular-programming-with-functions](7realize-modular-programming-with-functions.md)
 
