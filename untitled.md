@@ -1,4 +1,4 @@
-# 8Good-use-of-pointers
+# 8.Good-use-of-pointers
 
 > 善于利用指针
 
