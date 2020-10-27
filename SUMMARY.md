@@ -10,4 +10,5 @@
 * [6.use-arrays-to-process-batch-data](6use-arrays-to-process-batch-data.md)
 * [7.realize-modular-programming-with-functions](7realize-modular-programming-with-functions.md)
 * [8.Good-use-of-pointers](8good-use-of-pointers.md)
+* [9.users-create-data-types-themselves](9users-create-data-types-themselves.md)
 
