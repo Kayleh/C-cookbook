@@ -1,6 +1,7 @@
 # Table of contents
 
-* [编者序](README.md)
+* [C](README.md)
+* [编者序](editors-preface.md)
 * [目录contents](contents.md)
 * [1.programming](1programming.md)
 * [2.Algorithm](2algorithm.md)
