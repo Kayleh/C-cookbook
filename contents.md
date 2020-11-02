@@ -13,6 +13,7 @@
 7. [用函数实现模块化程序设计](7realize-modular-programming-with-functions.md)
 8. [善于利用指针](8good-use-of-pointers.md)
 9. [用户自己建立数据类型](9users-create-data-types-themselves.md)
+10. [对文件的输入输出](10file-input-and-output.md)
 
 
 
