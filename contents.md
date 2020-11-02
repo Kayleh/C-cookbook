@@ -15,5 +15,25 @@
 9. [用户自己建立数据类型](9users-create-data-types-themselves.md)
 10. [对文件的输入输出](10file-input-and-output.md)
 
+{% page-ref page="editors-preface.md" %}
 
+{% page-ref page="1programming.md" %}
+
+{% page-ref page="2algorithm.md" %}
+
+{% page-ref page="3sequential-programming.md" %}
+
+{% page-ref page="4select-structure-programming.md" %}
+
+{% page-ref page="5cycle-structure-programming.md" %}
+
+{% page-ref page="6use-arrays-to-process-batch-data.md" %}
+
+{% page-ref page="7realize-modular-programming-with-functions.md" %}
+
+{% page-ref page="8good-use-of-pointers.md" %}
+
+{% page-ref page="9users-create-data-types-themselves.md" %}
+
+{% page-ref page="10file-input-and-output.md" %}
 
