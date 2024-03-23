@@ -1,6 +1,6 @@
 # Table of contents
 
-* [C](README.md)
+* [C-cookbook](README.md)
 * [编者序](editors-preface.md)
 * [目录contents](contents.md)
 * [1.programming](1programming.md)
@@ -13,4 +13,3 @@
 * [8.Good-use-of-pointers](8good-use-of-pointers.md)
 * [9.users-create-data-types-themselves](9users-create-data-types-themselves.md)
 * [10.file-input-and-output](10file-input-and-output.md)
-
